@@ -1,4 +1,4 @@
-### Marketing Campaign Analysis
+## Marketing Campaign Analysis
 The goal of this analysis is to evaluate the effectiveness of marketing campaigns. By thoroughly examining the dataset, we aim to identify any issues and propose data-driven solutions.
 
 ### Data Preparation and Exploratory
